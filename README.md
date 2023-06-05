@@ -1,4 +1,5 @@
-# Project Name
+# RENT PRICES IN LIEGE
+Note : The final presentation and Jupyter notebook will be available later today (05/06/2023) due to some last minute inconviences with the code, thank you for understanding
 
 ## Motivation
 
