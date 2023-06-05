@@ -1,6 +1,12 @@
 # RENT PRICES IN LIEGE
 Note : The final presentation and Jupyter notebook will be available later today (05/06/2023) due to some last minute inconviences with the code, thank you for understanding
 
+##Files
+
+The Excel files contain the data collected from our two data sources (kotaliege.be and immoweb.be) through our webscraping endeavours
+All our analysis is grouped in one single .ipyib file containing all the different steps of our project with insights on results
+The pdf file contains our final presentation on which we will lean to present our findings
+
 ## Motivation
 
 This project was created with the aim of understanding, simplifying and predicting the task of looking for new accommadation to rent. We recognized the need for a roadmap that will allow students to conduct informed decisions in these testing times. 
@@ -24,4 +30,5 @@ The methodology employed in this project follows a systematic approach to addres
 ## Modelling
 
 The prediction task in this project involves using regression to predict student housing rent prices in Liège. Regression is a supervised learning technique that aims to predict a continuous numerical value, in our case, the price of rent. The regression model is trained on a dataset of known prices and corresponding features, and then used to make predictions on new data
+
 
